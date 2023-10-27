@@ -54226,6 +54226,12 @@
     (stroke (width 0.1) (type default)) (layer "Edge.Cuts") (tstamp da5791a9-90d5-4a5c-9f1a-504b9e5857aa))
   (gr_line (start 147 55) (end 147 67)
     (stroke (width 0.1) (type default)) (layer "Edge.Cuts") (tstamp f6408ed6-36d4-49c9-a486-7d1cf2dbf513))
+  (gr_text "ΓΙΑ ΤΗ ΝΙΚΗ ΚΑΙ ΤΟΝ ΚΩΣΤΑ" (at 55.025 80 90) (layer "F.Cu") (tstamp 9a84d5ee-a81d-4148-92e9-18c3aeb669e1)
+    (effects (font (size 2.1 2.1) (thickness 0.32)))
+  )
+  (gr_text "JLCJLCJLCJLC" (at 99.825 100.5) (layer "B.SilkS") (tstamp 6074858d-6c85-4121-ab97-c29bd5a97f67)
+    (effects (font (size 1.5 1.5) (thickness 0.2)) (justify mirror))
+  )
 
   (group "" (id 65ebed86-901c-4b5e-ac89-c092589016e3)
     (members
